@@ -326,12 +326,6 @@
   {
     "data": "2026-08-13",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "TESTE"
-  },
-  {
-    "data": "2026-08-13",
-    "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA MÓVEL 02",
     "turma": "Operador de Processos"
   },
@@ -352,6 +346,12 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. ELÉTRICA",
     "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-08-13",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Curso Costureiro Industrial- SIO"
   },
   {
     "data": "2026-08-14",
