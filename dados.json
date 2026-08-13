@@ -26,12 +26,6 @@
   {
     "data": "2026-08-03",
     "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-08-03",
-    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "ADMINISTRAÇÃO"
   },
@@ -68,12 +62,6 @@
   {
     "data": "2026-08-04",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA MÓVEL 01",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-08-04",
-    "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
   },
@@ -88,6 +76,12 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "Automação T2 | 1º Semestre"
+  },
+  {
+    "data": "2026-08-04",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Curso Costreiro Industrial- SIO"
   },
   {
     "data": "2026-08-05",
@@ -132,10 +126,22 @@
     "turma": "Torneiro Mecânico"
   },
   {
+    "data": "2026-08-05",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Curso Costreiro Industrial- SIO"
+  },
+  {
     "data": "2026-08-06",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 01",
     "turma": "Eletrotécnica"
+  },
+  {
+    "data": "2026-08-06",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Aux. Eletricista Predial"
   },
   {
     "data": "2026-08-06",
@@ -158,8 +164,8 @@
   {
     "data": "2026-08-07",
     "diaSemana": "SEXTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Aux. Eletricista Predial"
+    "sala": "SALA 02",
+    "turma": "Assistente Administrativo - EJA"
   },
   {
     "data": "2026-08-08",
@@ -176,14 +182,14 @@
   {
     "data": "2026-08-08",
     "diaSemana": "SÁBADO",
-    "sala": "LAB. AUTOMAÇÃO",
+    "sala": "LAB. ELÉTRICA",
     "turma": "Eletromecânica 3º"
   },
   {
     "data": "2026-08-10",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 01",
-    "turma": "ADMINISTRAÇÃO"
+    "turma": "Aux Administrativo"
   },
   {
     "data": "2026-08-10",
@@ -194,20 +200,14 @@
   {
     "data": "2026-08-10",
     "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-08-10",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA MÓVEL 01",
-    "turma": "Aux Administrativo"
-  },
-  {
-    "data": "2026-08-10",
-    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA MÓVEL 02",
     "turma": "Mecanico Industrial"
+  },
+  {
+    "data": "2026-08-10",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "ADMINISTRAÇÃO"
   },
   {
     "data": "2026-08-10",
@@ -238,12 +238,6 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 03",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-08-11",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA MÓVEL 01",
-    "turma": "Ass. Controle da Qualidade"
   },
   {
     "data": "2026-08-11",
@@ -312,10 +306,22 @@
     "turma": "Torneiro Mecânico"
   },
   {
+    "data": "2026-08-12",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Curso Costreiro Industrial- SIO"
+  },
+  {
     "data": "2026-08-13",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 01",
     "turma": "Eletrotécnica"
+  },
+  {
+    "data": "2026-08-13",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
   },
   {
     "data": "2026-08-13",
@@ -342,10 +348,28 @@
     "turma": "Aux. Eletricista Predial"
   },
   {
+    "data": "2026-08-13",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Curso Costreiro Industrial- SIO"
+  },
+  {
+    "data": "2026-08-14",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "SINVESPAR"
+  },
+  {
     "data": "2026-08-15",
     "diaSemana": "SÁBADO",
     "sala": "SALA 01",
     "turma": "Eletrotécnica 3º"
+  },
+  {
+    "data": "2026-08-15",
+    "diaSemana": "SÁBADO",
+    "sala": "SALA 02",
+    "turma": "SINVESPAR"
   },
   {
     "data": "2026-08-15",
@@ -375,19 +399,13 @@
     "data": "2026-08-17",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
+    "turma": "Aux Administrattivo"
   },
   {
     "data": "2026-08-17",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA MÓVEL 02",
     "turma": "Mecanico Industrial"
-  },
-  {
-    "data": "2026-08-17",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Aux Administrattivo"
   },
   {
     "data": "2026-08-17",
@@ -412,12 +430,6 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 03",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-08-18",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA MÓVEL 01",
-    "turma": "Ass. Controle da Qualidade"
   },
   {
     "data": "2026-08-18",
@@ -498,6 +510,12 @@
     "turma": "Aux. Eletricista Predial"
   },
   {
+    "data": "2026-08-21",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Assistente Administrativo - EJA"
+  },
+  {
     "data": "2026-08-22",
     "diaSemana": "SÁBADO",
     "sala": "LAB. MECÂNICA",
@@ -525,7 +543,7 @@
     "data": "2026-08-24",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
+    "turma": "Aux Administrattivo"
   },
   {
     "data": "2026-08-24",
@@ -542,14 +560,14 @@
   {
     "data": "2026-08-24",
     "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Aux Administrattivo"
+    "sala": "LAB. MECÂNICA",
+    "turma": "Torneiro Mecânico"
   },
   {
     "data": "2026-08-24",
     "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "Torneiro Mecânico"
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Téc. Vestuário - 1° Modulo"
   },
   {
     "data": "2026-08-25",
@@ -566,12 +584,6 @@
   {
     "data": "2026-08-25",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-08-25",
-    "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA MÓVEL 02",
     "turma": "Mecanico Industrial"
   },
@@ -580,6 +592,12 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "Torneiro Mecânico"
+  },
+  {
+    "data": "2026-08-25",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Téc. Vestuário - 1° Modulo"
   },
   {
     "data": "2026-08-26",
@@ -648,10 +666,22 @@
     "turma": "Torneiro Mecânico"
   },
   {
+    "data": "2026-08-28",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Assistente Administrativo - EJA"
+  },
+  {
     "data": "2026-08-29",
     "diaSemana": "SÁBADO",
     "sala": "SALA 01",
     "turma": "Eletrotécnica 3º"
+  },
+  {
+    "data": "2026-08-29",
+    "diaSemana": "SÁBADO",
+    "sala": "SALA 02",
+    "turma": "KRINDGES"
   },
   {
     "data": "2026-08-29",
@@ -681,12 +711,6 @@
     "data": "2026-08-31",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-08-31",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA MÓVEL 01",
     "turma": "Aux Administrattivo"
   },
   {
@@ -700,5 +724,11 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
+  },
+  {
+    "data": "2026-08-31",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Téc. Vestuário - 1° Modulo"
   }
 ]
