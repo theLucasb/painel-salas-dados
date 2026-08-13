@@ -81,7 +81,7 @@
     "data": "2026-08-04",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. VESTUÁRIO",
-    "turma": "Curso Costreiro Industrial- SIO"
+    "turma": "Curso Costureiro Industrial- SIO"
   },
   {
     "data": "2026-08-05",
@@ -129,7 +129,7 @@
     "data": "2026-08-05",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. VESTUÁRIO",
-    "turma": "Curso Costreiro Industrial- SIO"
+    "turma": "Curso Costureiro Industrial- SIO"
   },
   {
     "data": "2026-08-06",
@@ -309,7 +309,7 @@
     "data": "2026-08-12",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. VESTUÁRIO",
-    "turma": "Curso Costreiro Industrial- SIO"
+    "turma": "Curso Costureiro Industrial- SIO"
   },
   {
     "data": "2026-08-13",
@@ -322,6 +322,12 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 02",
     "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
+  },
+  {
+    "data": "2026-08-13",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "TESTE"
   },
   {
     "data": "2026-08-13",
@@ -348,12 +354,6 @@
     "turma": "Aux. Eletricista Predial"
   },
   {
-    "data": "2026-08-13",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. VESTUÁRIO",
-    "turma": "Curso Costreiro Industrial- SIO"
-  },
-  {
     "data": "2026-08-14",
     "diaSemana": "SEXTA-FEIRA",
     "sala": "SALA 01",
@@ -363,13 +363,13 @@
     "data": "2026-08-15",
     "diaSemana": "SÁBADO",
     "sala": "SALA 01",
-    "turma": "Eletrotécnica 3º"
+    "turma": "SINVESPAR"
   },
   {
     "data": "2026-08-15",
     "diaSemana": "SÁBADO",
     "sala": "SALA 02",
-    "turma": "SINVESPAR"
+    "turma": "Eletrotécnica 3º"
   },
   {
     "data": "2026-08-15",
