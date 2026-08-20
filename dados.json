@@ -374,13 +374,19 @@
   {
     "data": "2026-08-15",
     "diaSemana": "SÁBADO",
+    "sala": "SALA 03",
+    "turma": "TEc. Segurança- DEP Gessica e Jequieli"
+  },
+  {
+    "data": "2026-08-15",
+    "diaSemana": "SÁBADO",
     "sala": "LAB. MECÂNICA",
     "turma": "Eletromecânica TCC"
   },
   {
     "data": "2026-08-15",
     "diaSemana": "SÁBADO",
-    "sala": "LAB. AUTOMAÇÃO",
+    "sala": "LAB. ELÉTRICA",
     "turma": "Eletromecânica 3º"
   },
   {
@@ -476,8 +482,20 @@
   {
     "data": "2026-08-19",
     "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA MÓVEL 01",
+    "turma": "TEATRO"
+  },
+  {
+    "data": "2026-08-19",
+    "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA MÓVEL 02",
     "turma": "Operador de Processos"
+  },
+  {
+    "data": "2026-08-19",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "EJA"
   },
   {
     "data": "2026-08-19",
@@ -488,8 +506,8 @@
   {
     "data": "2026-08-20",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "Eletrotécnica"
+    "sala": "SALA 02",
+    "turma": "EJA"
   },
   {
     "data": "2026-08-20",
@@ -502,6 +520,12 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "Torneiro Mecânico"
+  },
+  {
+    "data": "2026-08-20",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Eletrotécnica"
   },
   {
     "data": "2026-08-20",
@@ -536,12 +560,6 @@
   {
     "data": "2026-08-24",
     "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-08-24",
-    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 03",
     "turma": "Aux Administrattivo"
   },
@@ -566,6 +584,12 @@
   {
     "data": "2026-08-24",
     "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Aux. Eletricista Predial"
+  },
+  {
+    "data": "2026-08-24",
+    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. VESTUÁRIO",
     "turma": "Téc. Vestuário - 1° Modulo"
   },
@@ -584,6 +608,12 @@
   {
     "data": "2026-08-25",
     "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
+  },
+  {
+    "data": "2026-08-25",
+    "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA MÓVEL 02",
     "turma": "Mecanico Industrial"
   },
@@ -592,6 +622,12 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "Torneiro Mecânico"
+  },
+  {
+    "data": "2026-08-25",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
   },
   {
     "data": "2026-08-25",
@@ -642,6 +678,12 @@
     "turma": "Torneiro Mecânico"
   },
   {
+    "data": "2026-08-26",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
+  },
+  {
     "data": "2026-08-27",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 01",
@@ -652,6 +694,12 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 02",
     "turma": "Aux. Informática Turma 02"
+  },
+  {
+    "data": "2026-08-27",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "EJA"
   },
   {
     "data": "2026-08-27",
@@ -704,12 +752,6 @@
   {
     "data": "2026-08-31",
     "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-08-31",
-    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 03",
     "turma": "Aux Administrattivo"
   },
@@ -724,6 +766,18 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
+  },
+  {
+    "data": "2026-08-31",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
+  },
+  {
+    "data": "2026-08-31",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Aux. Eletricista Predial"
   },
   {
     "data": "2026-08-31",
