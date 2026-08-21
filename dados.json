@@ -567,13 +567,19 @@
     "data": "2026-08-24",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA MÓVEL 01",
-    "turma": "Aux. Informática Turma 01"
+    "turma": "Mecanico Industrial"
   },
   {
     "data": "2026-08-24",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA MÓVEL 02",
-    "turma": "Mecanico Industrial"
+    "turma": "Téc. Vestuário - 1° Modulo"
+  },
+  {
+    "data": "2026-08-24",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Aux. Informática Turma 01"
   },
   {
     "data": "2026-08-24",
@@ -586,12 +592,6 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. ELÉTRICA",
     "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-08-24",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. VESTUÁRIO",
-    "turma": "Téc. Vestuário - 1° Modulo"
   },
   {
     "data": "2026-08-25",
@@ -614,8 +614,14 @@
   {
     "data": "2026-08-25",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA MÓVEL 02",
+    "sala": "SALA MÓVEL 01",
     "turma": "Mecanico Industrial"
+  },
+  {
+    "data": "2026-08-25",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA MÓVEL 02",
+    "turma": "Téc. Vestuário - 1° Modulo"
   },
   {
     "data": "2026-08-25",
@@ -628,12 +634,6 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
-  },
-  {
-    "data": "2026-08-25",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. VESTUÁRIO",
-    "turma": "Téc. Vestuário - 1° Modulo"
   },
   {
     "data": "2026-08-26",
@@ -758,8 +758,14 @@
   {
     "data": "2026-08-31",
     "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA MÓVEL 02",
+    "sala": "SALA MÓVEL 01",
     "turma": "Mecanico Industrial"
+  },
+  {
+    "data": "2026-08-31",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA MÓVEL 02",
+    "turma": "Téc. Vestuário - 1° Modulo"
   },
   {
     "data": "2026-08-31",
@@ -778,11 +784,5 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. ELÉTRICA",
     "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-08-31",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. VESTUÁRIO",
-    "turma": "Téc. Vestuário - 1° Modulo"
   }
 ]
