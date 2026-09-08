@@ -72,16 +72,22 @@
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
   },
   {
+    "data": "2026-09-02",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Treinamento WorldSkills"
+  },
+  {
     "data": "2026-09-03",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA MÓVEL 01",
+    "sala": "SALA 02",
     "turma": "Aux. Informática Turma 02"
   },
   {
     "data": "2026-09-03",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA MÓVEL 02",
-    "turma": "Eletromecanica 2º mod"
+    "sala": "SALA 03",
+    "turma": "Eletromecanica 2° módulo"
   },
   {
     "data": "2026-09-03",
@@ -96,10 +102,22 @@
     "turma": "Aux. Eletricista Predial"
   },
   {
+    "data": "2026-09-04",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
+  },
+  {
     "data": "2026-09-05",
     "diaSemana": "SÁBADO",
     "sala": "SALA 02",
     "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
+  },
+  {
+    "data": "2026-09-05",
+    "diaSemana": "SÁBADO",
+    "sala": "SALA 03",
+    "turma": "Eletromecanica TCC"
   },
   {
     "data": "2026-09-07",
@@ -141,6 +159,12 @@
     "data": "2026-09-08",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
+  },
+  {
+    "data": "2026-09-08",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
     "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
   },
   {
@@ -230,6 +254,12 @@
   {
     "data": "2026-09-11",
     "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
+  },
+  {
+    "data": "2026-09-11",
+    "diaSemana": "SEXTA-FEIRA",
     "sala": "SALA 02",
     "turma": "Assistente Administrativo - EJA"
   },
@@ -267,7 +297,7 @@
     "data": "2026-09-14",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA MÓVEL 01",
-    "turma": "Mecanico Industrial"
+    "turma": "Mecanico Máquina  Costura"
   },
   {
     "data": "2026-09-14",
@@ -280,6 +310,12 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
+  },
+  {
+    "data": "2026-09-14",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Mecanico Industrial"
   },
   {
     "data": "2026-09-14",
@@ -315,7 +351,7 @@
     "data": "2026-09-15",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA MÓVEL 01",
-    "turma": "Mecanico Industrial"
+    "turma": "Mecanico Máquina  Costura"
   },
   {
     "data": "2026-09-15",
@@ -328,6 +364,12 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Club ENEM"
+  },
+  {
+    "data": "2026-09-15",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Mecanico Industrial"
   },
   {
     "data": "2026-09-15",
@@ -422,6 +464,12 @@
   {
     "data": "2026-09-18",
     "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "TÉC. DESENVOLVIMENTO DE SISTEMAS"
+  },
+  {
+    "data": "2026-09-18",
+    "diaSemana": "SEXTA-FEIRA",
     "sala": "SALA 02",
     "turma": "Assistente Administrativo - EJA"
   },
@@ -459,7 +507,7 @@
     "data": "2026-09-21",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA MÓVEL 01",
-    "turma": "Mecanico Industrial"
+    "turma": "Mecanico Máquina  Costura"
   },
   {
     "data": "2026-09-21",
@@ -472,6 +520,12 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
+  },
+  {
+    "data": "2026-09-21",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Mecanico Industrial"
   },
   {
     "data": "2026-09-21",
@@ -513,13 +567,19 @@
     "data": "2026-09-22",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA MÓVEL 01",
-    "turma": "Mecanico Industrial"
+    "turma": "Mecanico Máquina  Costura"
   },
   {
     "data": "2026-09-22",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Téc. Vestuário - 1° Modulo"
+  },
+  {
+    "data": "2026-09-22",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Mecanico Industrial"
   },
   {
     "data": "2026-09-22",
@@ -612,6 +672,12 @@
     "turma": "TÉC. ELETROTÉCNICA"
   },
   {
+    "data": "2026-09-26",
+    "diaSemana": "SÁBADO",
+    "sala": "SALA 02",
+    "turma": "TCC - TÉC. DESENVOLVIMENTO DE SISTEMAS"
+  },
+  {
     "data": "2026-09-28",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 01",
@@ -632,6 +698,12 @@
   {
     "data": "2026-09-28",
     "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA MÓVEL 01",
+    "turma": "Mecanico Máquina  Costura"
+  },
+  {
+    "data": "2026-09-28",
+    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA MÓVEL 02",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
@@ -640,6 +712,12 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Eletrotécnica"
+  },
+  {
+    "data": "2026-09-28",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Mecanico Industrial"
   },
   {
     "data": "2026-09-28",
@@ -680,8 +758,20 @@
   {
     "data": "2026-09-29",
     "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA MÓVEL 01",
+    "turma": "Mecanico Máquina  Costura"
+  },
+  {
+    "data": "2026-09-29",
+    "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-09-29",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Mecanico Industrial"
   },
   {
     "data": "2026-09-29",
