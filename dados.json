@@ -666,6 +666,12 @@
     "turma": "Assistente Administrativo - EJA"
   },
   {
+    "data": "2026-09-25",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "SINVESPAR"
+  },
+  {
     "data": "2026-09-26",
     "diaSemana": "SÁBADO",
     "sala": "SALA 01",
@@ -676,6 +682,12 @@
     "diaSemana": "SÁBADO",
     "sala": "SALA 02",
     "turma": "TCC - TÉC. DESENVOLVIMENTO DE SISTEMAS"
+  },
+  {
+    "data": "2026-09-26",
+    "diaSemana": "SÁBADO",
+    "sala": "SALA 03",
+    "turma": "SINVESPAR"
   },
   {
     "data": "2026-09-28",
