@@ -350,12 +350,6 @@
   {
     "data": "2026-09-15",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
-  },
-  {
-    "data": "2026-09-15",
-    "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA MÓVEL 01",
     "turma": "Mecanico Máquina  Costura"
   },
@@ -378,6 +372,12 @@
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
   },
   {
+    "data": "2026-09-15",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
+  },
+  {
     "data": "2026-09-16",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 01",
@@ -387,19 +387,25 @@
     "data": "2026-09-16",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 02",
-    "turma": "Aux. Informática Turma 01"
+    "turma": "TÉC. QUALIDADE"
   },
   {
     "data": "2026-09-16",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 03",
-    "turma": "TÉC. QUALIDADE"
+    "turma": "Aux. Informática Turma 01"
   },
   {
     "data": "2026-09-16",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA MÓVEL 01",
     "turma": "Aux. Informática Turma 02"
+  },
+  {
+    "data": "2026-09-16",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA MÓVEL 02",
+    "turma": "Treinamento WorldSkills"
   },
   {
     "data": "2026-09-16",
@@ -447,7 +453,7 @@
     "data": "2026-09-17",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
-    "turma": "App. Eletrônica"
+    "turma": "REC Eletrônica"
   },
   {
     "data": "2026-09-17",
@@ -512,6 +518,12 @@
   {
     "data": "2026-09-21",
     "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA MÓVEL 02",
+    "turma": "Teste"
+  },
+  {
+    "data": "2026-09-21",
+    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
   },
@@ -554,12 +566,6 @@
   {
     "data": "2026-09-22",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
-  },
-  {
-    "data": "2026-09-22",
-    "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA MÓVEL 01",
     "turma": "Mecanico Máquina  Costura"
   },
@@ -580,6 +586,12 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
+  },
+  {
+    "data": "2026-09-22",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
   },
   {
     "data": "2026-09-23",
@@ -624,6 +636,12 @@
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
   },
   {
+    "data": "2026-09-23",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "TÉC. ELETROMECÂNICA | 2º MÓD"
+  },
+  {
     "data": "2026-09-24",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 03",
@@ -640,12 +658,6 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Solidworks"
-  },
-  {
-    "data": "2026-09-24",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "App. Eletrônica"
   },
   {
     "data": "2026-09-24",
@@ -760,6 +772,12 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
+  },
+  {
+    "data": "2026-09-29",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "TÉC. ELETROMECÂNICA | 2º MÓD"
   },
   {
     "data": "2026-09-30",
