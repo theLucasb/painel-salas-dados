@@ -518,6 +518,18 @@
   {
     "data": "2026-09-21",
     "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA MÓVEL 02",
+    "turma": "Teste"
+  },
+  {
+    "data": "2026-09-21",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Aux. Informática Turma 01"
+  },
+  {
+    "data": "2026-09-21",
+    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "Mecanico Industrial"
   },
