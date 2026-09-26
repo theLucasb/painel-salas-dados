@@ -638,6 +638,18 @@
   {
     "data": "2026-09-24",
     "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Aux. Informática Turma 02"
+  },
+  {
+    "data": "2026-09-24",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "DP TÉC QUALIDADE"
+  },
+  {
+    "data": "2026-09-24",
+    "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 03",
     "turma": "EJA"
   },
@@ -645,7 +657,7 @@
     "data": "2026-09-24",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA MÓVEL 01",
-    "turma": "Aux. Informática Turma 02"
+    "turma": "Aux. Eletricista Predial"
   },
   {
     "data": "2026-09-24",
@@ -657,7 +669,7 @@
     "data": "2026-09-24",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. ELÉTRICA",
-    "turma": "Aux. Eletricista Predial"
+    "turma": "TÉC. ELETROMECÂNICA | 2º MÓD"
   },
   {
     "data": "2026-09-25",
@@ -710,14 +722,8 @@
   {
     "data": "2026-09-28",
     "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA MÓVEL 02",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
-  },
-  {
-    "data": "2026-09-28",
-    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
-    "turma": "Eletrotécnica"
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
     "data": "2026-09-28",
@@ -736,12 +742,6 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. ELÉTRICA",
     "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-09-28",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. VESTUÁRIO",
-    "turma": "Téc. Vestuário - 1° Modulo"
   },
   {
     "data": "2026-09-29",
@@ -764,8 +764,14 @@
   {
     "data": "2026-09-29",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
+    "sala": "SALA MÓVEL 02",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-09-29",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
   {
     "data": "2026-09-29",
@@ -778,12 +784,6 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
-  },
-  {
-    "data": "2026-09-29",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "TÉC. ELETROMECÂNICA | 2º MÓD"
   },
   {
     "data": "2026-09-30",
@@ -820,5 +820,11 @@
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
+  },
+  {
+    "data": "2026-09-30",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "TÉC. ELETROMECÂNICA | 2º MÓD"
   }
 ]
