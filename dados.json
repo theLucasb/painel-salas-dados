@@ -716,6 +716,12 @@
   {
     "data": "2026-09-28",
     "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Recuperação Elétrica"
+  },
+  {
+    "data": "2026-09-28",
+    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA MÓVEL 01",
     "turma": "Mecanico Máquina  Costura"
   },
@@ -752,12 +758,6 @@
   {
     "data": "2026-09-29",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
-  },
-  {
-    "data": "2026-09-29",
-    "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA MÓVEL 01",
     "turma": "Mecanico Máquina  Costura"
   },
@@ -770,12 +770,6 @@
   {
     "data": "2026-09-29",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
-  },
-  {
-    "data": "2026-09-29",
-    "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "Mecanico Industrial"
   },
@@ -784,6 +778,12 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
+  },
+  {
+    "data": "2026-09-29",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
   },
   {
     "data": "2026-09-30",
