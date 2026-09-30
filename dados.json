@@ -788,6 +788,12 @@
   {
     "data": "2026-09-30",
     "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Treinamento WorldSkills 2028"
+  },
+  {
+    "data": "2026-09-30",
+    "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 02",
     "turma": "Aux. Informática Turma 02"
   },
