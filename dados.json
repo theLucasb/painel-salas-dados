@@ -146,7 +146,7 @@
   {
     "data": "2026-10-08",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
+    "sala": "SALA 01",
     "turma": "Aux. Informática Turma 02"
   },
   {
@@ -186,6 +186,12 @@
     "turma": "TÉC. ELETROTÉCNICA"
   },
   {
+    "data": "2026-10-10",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Curso de Instalador de Ar Condicionado"
+  },
+  {
     "data": "2026-10-13",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 01",
@@ -212,14 +218,14 @@
   {
     "data": "2026-10-13",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
+    "sala": "SALA MÓVEL 02",
+    "turma": "Mec. Ind."
   },
   {
     "data": "2026-10-13",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "Mec. Ind."
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
   {
     "data": "2026-10-13",
@@ -268,12 +274,6 @@
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
-  },
-  {
-    "data": "2026-10-14",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "Mec. Ind."
   },
   {
     "data": "2026-10-14",
@@ -336,6 +336,12 @@
     "turma": "TÉC. ELETROTÉCNICA"
   },
   {
+    "data": "2026-10-17",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Curso de Instalador de Ar Condicionado"
+  },
+  {
     "data": "2026-10-19",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 01",
@@ -410,14 +416,14 @@
   {
     "data": "2026-10-20",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
+    "sala": "SALA MÓVEL 02",
+    "turma": "Mec. Ind."
   },
   {
     "data": "2026-10-20",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "Mec. Ind."
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
   {
     "data": "2026-10-20",
@@ -520,6 +526,12 @@
     "diaSemana": "SÁBADO",
     "sala": "SALA 01",
     "turma": "TÉC. ELETROTÉCNICA"
+  },
+  {
+    "data": "2026-10-24",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Curso de Instalador de Ar Condicionado"
   },
   {
     "data": "2026-10-26",
