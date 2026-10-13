@@ -6,6 +6,12 @@
     "turma": "Ass. Controle da Qualidade"
   },
   {
+    "data": "2026-10-03",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. ELETROMECÂNICA"
+  },
+  {
     "data": "2026-10-05",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 01",
@@ -188,6 +194,18 @@
   {
     "data": "2026-10-10",
     "diaSemana": "SÁBADO",
+    "sala": "SALA 03",
+    "turma": "WordSkills"
+  },
+  {
+    "data": "2026-10-10",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. ELETROMECÂNICA"
+  },
+  {
+    "data": "2026-10-10",
+    "diaSemana": "SÁBADO",
     "sala": "LAB. ELÉTRICA",
     "turma": "Curso de Instalador de Ar Condicionado"
   },
@@ -338,6 +356,12 @@
   {
     "data": "2026-10-17",
     "diaSemana": "SÁBADO",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. ELETROMECÂNICA"
+  },
+  {
+    "data": "2026-10-17",
+    "diaSemana": "SÁBADO",
     "sala": "LAB. ELÉTRICA",
     "turma": "Curso de Instalador de Ar Condicionado"
   },
@@ -346,12 +370,6 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 01",
     "turma": "TÉC. ADMINISTRAÇÃO"
-  },
-  {
-    "data": "2026-10-19",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
     "data": "2026-10-19",
@@ -390,16 +408,16 @@
     "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
   },
   {
-    "data": "2026-10-20",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "TÉC. ADMINISTRAÇÃO"
+    "data": "2026-10-19",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
     "data": "2026-10-20",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
+    "sala": "SALA 01",
+    "turma": "TÉC. ADMINISTRAÇÃO"
   },
   {
     "data": "2026-10-20",
@@ -436,6 +454,12 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. ELÉTRICA",
     "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
+  },
+  {
+    "data": "2026-10-20",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
     "data": "2026-10-21",
