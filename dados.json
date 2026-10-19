@@ -404,6 +404,12 @@
   {
     "data": "2026-10-19",
     "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "REC ELETROMECÂNICA"
+  },
+  {
+    "data": "2026-10-19",
+    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. VESTUÁRIO",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
