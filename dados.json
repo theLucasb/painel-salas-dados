@@ -518,6 +518,12 @@
   {
     "data": "2026-10-22",
     "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "EJA SESI"
+  },
+  {
+    "data": "2026-10-22",
+    "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 03",
     "turma": "Aux. Eletricista Predial"
   },
@@ -596,12 +602,6 @@
   {
     "data": "2026-10-27",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "IA para Empresas"
-  },
-  {
-    "data": "2026-10-27",
-    "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
@@ -645,13 +645,13 @@
     "data": "2026-10-28",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 03",
-    "turma": "Aux. Administrativo"
+    "turma": "ORATÓRIA"
   },
   {
     "data": "2026-10-28",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA MÓVEL 01",
-    "turma": "ORATÓRIA"
+    "turma": "Aux. Administrativo"
   },
   {
     "data": "2026-10-28",
@@ -664,6 +664,12 @@
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
+  },
+  {
+    "data": "2026-10-28",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Eletromecanica 2º"
   },
   {
     "data": "2026-10-28",
@@ -688,6 +694,12 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 02"
+  },
+  {
+    "data": "2026-10-29",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Eletromecanica 2º"
   },
   {
     "data": "2026-10-30",
