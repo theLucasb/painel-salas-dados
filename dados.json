@@ -602,6 +602,12 @@
   {
     "data": "2026-10-27",
     "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "SAEP Desenvolvimento de Sistemas"
+  },
+  {
+    "data": "2026-10-27",
+    "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
