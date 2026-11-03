@@ -1,722 +1,596 @@
 [
   {
-    "data": "2026-10-01",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Ass. Controle da Qualidade"
-  },
-  {
-    "data": "2026-10-03",
-    "diaSemana": "SÁBADO",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "TÉC. ELETROMECÂNICA"
-  },
-  {
-    "data": "2026-10-05",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "TÉC. ADMINISTRAÇÃO"
-  },
-  {
-    "data": "2026-10-05",
-    "diaSemana": "SEGUNDA-FEIRA",
+    "data": "2026-11-03",
+    "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 02",
-    "turma": "Tec.Vestuário- 1º Mod Presencial"
+    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
   },
   {
-    "data": "2026-10-05",
-    "diaSemana": "SEGUNDA-FEIRA",
+    "data": "2026-11-03",
+    "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 03",
-    "turma": "Aux. Administrativo"
+    "turma": "Palestra Mundo Senai"
   },
   {
-    "data": "2026-10-05",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA MÓVEL 01",
-    "turma": "App Usinagem"
-  },
-  {
-    "data": "2026-10-05",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA MÓVEL 02",
-    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
-  },
-  {
-    "data": "2026-10-05",
-    "diaSemana": "SEGUNDA-FEIRA",
+    "data": "2026-11-03",
+    "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
-    "turma": "Aux. Informática Turma 01"
+    "turma": "Treinamento Altus - CLPS"
   },
   {
-    "data": "2026-10-05",
-    "diaSemana": "SEGUNDA-FEIRA",
+    "data": "2026-11-03",
+    "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. MECÂNICA",
-    "turma": "Mec. Ind."
+    "turma": "Mec. Ind./ Usinagem"
   },
   {
-    "data": "2026-10-05",
-    "diaSemana": "SEGUNDA-FEIRA",
+    "data": "2026-11-03",
+    "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
-    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
+    "turma": "TÉC. AUTOMAÇÃO | 3º E 4º MOD"
   },
   {
-    "data": "2026-10-05",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-10-06",
+    "data": "2026-11-03",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "TÉC. ADMINISTRAÇÃO"
-  },
-  {
-    "data": "2026-10-06",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 02",
+    "sala": "LAB. VESTUÁRIO",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
-    "data": "2026-10-06",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "SAEP DESENV. SISTEMAS"
-  },
-  {
-    "data": "2026-10-06",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA MÓVEL 01",
-    "turma": "App Usinagem"
-  },
-  {
-    "data": "2026-10-06",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA MÓVEL 02",
-    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
-  },
-  {
-    "data": "2026-10-06",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. MECÂNICA",
-    "turma": "Mec. Ind."
-  },
-  {
-    "data": "2026-10-06",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
-  },
-  {
-    "data": "2026-10-07",
+    "data": "2026-11-04",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 01",
+    "turma": "Solid works"
+  },
+  {
+    "data": "2026-11-04",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Aux Administrativo"
+  },
+  {
+    "data": "2026-11-04",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 03",
     "turma": "ORATÓRIA"
   },
   {
-    "data": "2026-10-07",
+    "data": "2026-11-04",
     "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Aux. Informática Turma 02"
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Treinamento Altus - CLPS"
   },
   {
-    "data": "2026-10-07",
+    "data": "2026-11-04",
     "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Aux. Administrativo"
+    "sala": "LAB. MECÂNICA",
+    "turma": "Eletromecanica"
   },
   {
-    "data": "2026-10-07",
+    "data": "2026-11-04",
     "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA MÓVEL 02",
+    "sala": "LAB. ELÉTRICA",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
   {
-    "data": "2026-10-07",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Aux. Informática Turma 01"
-  },
-  {
-    "data": "2026-10-07",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
-  },
-  {
-    "data": "2026-10-07",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "TÉC. ELETROMECÂNICA | 2º MÓD"
-  },
-  {
-    "data": "2026-10-08",
+    "data": "2026-11-05",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 01",
+    "turma": "Solid works"
+  },
+  {
+    "data": "2026-11-05",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "EJA - Sesi"
+  },
+  {
+    "data": "2026-11-05",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "Palestra - Geradores"
+  },
+  {
+    "data": "2026-11-05",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 02"
   },
   {
-    "data": "2026-10-08",
+    "data": "2026-11-05",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Aux. Eletricista Predial"
+    "sala": "LAB. MECÂNICA",
+    "turma": "Eletromecanica"
   },
   {
-    "data": "2026-10-08",
+    "data": "2026-11-05",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA MÓVEL 02",
-    "turma": "DP LUCAS QUALIDADE"
-  },
-  {
-    "data": "2026-10-08",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
+    "sala": "LAB. ELÉTRICA",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
   {
-    "data": "2026-10-08",
+    "data": "2026-11-05",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "TÉC. ELETROMECÂNICA | 2º MÓD"
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Oficina Mundo Senai"
   },
   {
-    "data": "2026-10-09",
+    "data": "2026-11-06",
     "diaSemana": "SEXTA-FEIRA",
     "sala": "SALA 02",
     "turma": "Assistente Administrativo - EJA"
   },
   {
-    "data": "2026-10-10",
+    "data": "2026-11-08",
+    "diaSemana": "DOMINGO",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "T"
+  },
+  {
+    "data": "2026-11-09",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "TÉC. ADMINISTRAÇÃO"
+  },
+  {
+    "data": "2026-11-09",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Aux Administrativo"
+  },
+  {
+    "data": "2026-11-09",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
+  },
+  {
+    "data": "2026-11-09",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Aux. Informática Turma 01"
+  },
+  {
+    "data": "2026-11-09",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Mec. Ind./ Usinagem"
+  },
+  {
+    "data": "2026-11-09",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
+  },
+  {
+    "data": "2026-11-09",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-11-10",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "AVALIAÇÃO SAEP"
+  },
+  {
+    "data": "2026-11-10",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "ORATÓRIA"
+  },
+  {
+    "data": "2026-11-10",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
+  },
+  {
+    "data": "2026-11-10",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Mec. Ind./ Usinagem"
+  },
+  {
+    "data": "2026-11-10",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
+  },
+  {
+    "data": "2026-11-10",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
+  },
+  {
+    "data": "2026-11-10",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. VESTUÁRIO",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-11-11",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Aux. Informática Turma 02"
+  },
+  {
+    "data": "2026-11-11",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Aux Administrattivo"
+  },
+  {
+    "data": "2026-11-11",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
+  },
+  {
+    "data": "2026-11-11",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Aux. Informática Turma 01"
+  },
+  {
+    "data": "2026-11-11",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Eletromecanica"
+  },
+  {
+    "data": "2026-11-11",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
+  },
+  {
+    "data": "2026-11-12",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
+  },
+  {
+    "data": "2026-11-12",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Aux. Informática Turma 02"
+  },
+  {
+    "data": "2026-11-12",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Eletromecanica"
+  },
+  {
+    "data": "2026-11-13",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Assistente Administrativo - EJA"
+  },
+  {
+    "data": "2026-11-14",
     "diaSemana": "SÁBADO",
     "sala": "SALA 01",
     "turma": "TÉC. ELETROTÉCNICA"
   },
   {
-    "data": "2026-10-10",
-    "diaSemana": "SÁBADO",
-    "sala": "SALA 03",
-    "turma": "WordSkills"
-  },
-  {
-    "data": "2026-10-10",
-    "diaSemana": "SÁBADO",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "TÉC. ELETROMECÂNICA"
-  },
-  {
-    "data": "2026-10-10",
-    "diaSemana": "SÁBADO",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Curso de Instalador de Ar Condicionado"
-  },
-  {
-    "data": "2026-10-13",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "TÉC. ADMINISTRAÇÃO"
-  },
-  {
-    "data": "2026-10-13",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "SAEP DESENV. SISTEMAS"
-  },
-  {
-    "data": "2026-10-13",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA MÓVEL 01",
-    "turma": "App Usinagem"
-  },
-  {
-    "data": "2026-10-13",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA MÓVEL 02",
-    "turma": "Mec. Ind."
-  },
-  {
-    "data": "2026-10-13",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
-  },
-  {
-    "data": "2026-10-13",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
-  },
-  {
-    "data": "2026-10-13",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
-  },
-  {
-    "data": "2026-10-14",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "Solid Intermediário"
-  },
-  {
-    "data": "2026-10-14",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Aux. Informática Turma 02"
-  },
-  {
-    "data": "2026-10-14",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Aux. Administrativo"
-  },
-  {
-    "data": "2026-10-14",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA MÓVEL 01",
-    "turma": "ORATÓRIA"
-  },
-  {
-    "data": "2026-10-14",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA MÓVEL 02",
-    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
-  },
-  {
-    "data": "2026-10-14",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "Aux. Informática Turma 01"
-  },
-  {
-    "data": "2026-10-14",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
-  },
-  {
-    "data": "2026-10-14",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "TÉC. ELETROMECÂNICA | 2º MÓD"
-  },
-  {
-    "data": "2026-10-15",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "Solid Intermediário"
-  },
-  {
-    "data": "2026-10-15",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Aux. Informática Turma 02"
-  },
-  {
-    "data": "2026-10-15",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-10-15",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA MÓVEL 02",
-    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
-  },
-  {
-    "data": "2026-10-15",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. INFORMÁTICA",
-    "turma": "SAEP - Qualidade."
-  },
-  {
-    "data": "2026-10-15",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "TÉC. ELETROMECÂNICA | 2º MÓD"
-  },
-  {
-    "data": "2026-10-16",
-    "diaSemana": "SEXTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "Assistente Administrativo - EJA"
-  },
-  {
-    "data": "2026-10-17",
-    "diaSemana": "SÁBADO",
-    "sala": "SALA 01",
-    "turma": "TÉC. ELETROTÉCNICA"
-  },
-  {
-    "data": "2026-10-17",
-    "diaSemana": "SÁBADO",
-    "sala": "LAB. AUTOMAÇÃO",
-    "turma": "TÉC. ELETROMECÂNICA"
-  },
-  {
-    "data": "2026-10-17",
-    "diaSemana": "SÁBADO",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Curso de Instalador de Ar Condicionado"
-  },
-  {
-    "data": "2026-10-19",
+    "data": "2026-11-16",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 01",
     "turma": "TÉC. ADMINISTRAÇÃO"
   },
   {
-    "data": "2026-10-19",
+    "data": "2026-11-16",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "Aux Administrativo"
+  },
+  {
+    "data": "2026-11-16",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 03",
-    "turma": "Aux. Administrativo"
-  },
-  {
-    "data": "2026-10-19",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA MÓVEL 01",
-    "turma": "App Usinagem"
-  },
-  {
-    "data": "2026-10-19",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA MÓVEL 02",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
   {
-    "data": "2026-10-19",
+    "data": "2026-11-16",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
   },
   {
-    "data": "2026-10-19",
+    "data": "2026-11-16",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. MECÂNICA",
-    "turma": "Mec. Ind."
+    "turma": "Mec. Ind./ Usinagem"
   },
   {
-    "data": "2026-10-19",
+    "data": "2026-11-16",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
   },
   {
-    "data": "2026-10-19",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "REC ELETROMECÂNICA"
-  },
-  {
-    "data": "2026-10-19",
+    "data": "2026-11-16",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. VESTUÁRIO",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
-    "data": "2026-10-20",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "TÉC. ADMINISTRAÇÃO"
-  },
-  {
-    "data": "2026-10-20",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "SAEP DESENV. SISTEMAS"
-  },
-  {
-    "data": "2026-10-20",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA MÓVEL 01",
-    "turma": "App Usinagem"
-  },
-  {
-    "data": "2026-10-20",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA MÓVEL 02",
-    "turma": "Mec. Ind."
-  },
-  {
-    "data": "2026-10-20",
+    "data": "2026-11-17",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
   {
-    "data": "2026-10-20",
+    "data": "2026-11-17",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Mec. Ind./ Usinagem"
+  },
+  {
+    "data": "2026-11-17",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
   },
   {
-    "data": "2026-10-20",
+    "data": "2026-11-17",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. ELÉTRICA",
     "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
   },
   {
-    "data": "2026-10-20",
+    "data": "2026-11-17",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. VESTUÁRIO",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
-    "data": "2026-10-21",
+    "data": "2026-11-18",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 01",
-    "turma": "Solid Intermediário"
+    "turma": "SAEP DESENV. SISTEMAS"
   },
   {
-    "data": "2026-10-21",
+    "data": "2026-11-18",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 02",
-    "turma": "Aux. Informática Turma 02"
+    "turma": "Aux Administrattivo"
   },
   {
-    "data": "2026-10-21",
+    "data": "2026-11-18",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 03",
-    "turma": "Aux. Administrativo"
-  },
-  {
-    "data": "2026-10-21",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA MÓVEL 01",
-    "turma": "ORATÓRIA"
-  },
-  {
-    "data": "2026-10-21",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA MÓVEL 02",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
   {
-    "data": "2026-10-21",
+    "data": "2026-11-18",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA MÓVEL 01",
+    "turma": "INTELIGÊNCIA EMOCIONAL"
+  },
+  {
+    "data": "2026-11-18",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA MÓVEL 02",
+    "turma": "Aux. Informática Turma 02"
+  },
+  {
+    "data": "2026-11-18",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
   },
   {
-    "data": "2026-10-21",
+    "data": "2026-11-18",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Eletromecanica"
+  },
+  {
+    "data": "2026-11-18",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
   },
   {
-    "data": "2026-10-21",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "TÉC. ELETROMECÂNICA | 2º MÓD"
-  },
-  {
-    "data": "2026-10-22",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "Solid Intermediário"
-  },
-  {
-    "data": "2026-10-22",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "EJA SESI"
-  },
-  {
-    "data": "2026-10-22",
+    "data": "2026-11-19",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 03",
-    "turma": "Aux. Eletricista Predial"
-  },
-  {
-    "data": "2026-10-22",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA MÓVEL 02",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
   {
-    "data": "2026-10-22",
+    "data": "2026-11-19",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 02"
   },
   {
-    "data": "2026-10-22",
+    "data": "2026-11-19",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "TÉC. ELETROMECÂNICA | 2º MÓD"
+    "sala": "LAB. MECÂNICA",
+    "turma": "Eletromecanica"
   },
   {
-    "data": "2026-10-23",
+    "data": "2026-11-20",
     "diaSemana": "SEXTA-FEIRA",
     "sala": "SALA 02",
     "turma": "Assistente Administrativo - EJA"
   },
   {
-    "data": "2026-10-24",
+    "data": "2026-11-21",
     "diaSemana": "SÁBADO",
     "sala": "SALA 01",
     "turma": "TÉC. ELETROTÉCNICA"
   },
   {
-    "data": "2026-10-24",
-    "diaSemana": "SÁBADO",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Curso de Instalador de Ar Condicionado"
+    "data": "2026-11-23",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "TÉC. ADMINISTRAÇÃO"
   },
   {
-    "data": "2026-10-26",
+    "data": "2026-11-23",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 02",
-    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
+    "turma": "Aux Administrativo"
   },
   {
-    "data": "2026-10-26",
-    "diaSemana": "SEGUNDA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "Aux. Administrativo"
-  },
-  {
-    "data": "2026-10-26",
+    "data": "2026-11-23",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
   },
   {
-    "data": "2026-10-26",
+    "data": "2026-11-23",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. MECÂNICA",
-    "turma": "Mec. Ind./Usinagem"
+    "turma": "Mec. Ind./ Usinagem"
   },
   {
-    "data": "2026-10-26",
+    "data": "2026-11-23",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
   },
   {
-    "data": "2026-10-26",
+    "data": "2026-11-23",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
+  },
+  {
+    "data": "2026-11-23",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. VESTUÁRIO",
-    "turma": "Téc. Vestuário - 1° Mód."
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
-    "data": "2026-10-27",
-    "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "SAEP Desenvolvimento de Sistemas"
-  },
-  {
-    "data": "2026-10-27",
+    "data": "2026-11-24",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
   {
-    "data": "2026-10-27",
+    "data": "2026-11-24",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. MECÂNICA",
-    "turma": "Mec. Ind./Usinagem"
+    "turma": "Mec. Ind./ Usinagem"
   },
   {
-    "data": "2026-10-27",
+    "data": "2026-11-24",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
   },
   {
-    "data": "2026-10-27",
+    "data": "2026-11-24",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. ELÉTRICA",
     "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
   },
   {
-    "data": "2026-10-27",
+    "data": "2026-11-24",
     "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. VESTUÁRIO",
-    "turma": "Téc. Vestuário - 1° Mód."
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
   },
   {
-    "data": "2026-10-28",
+    "data": "2026-11-25",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 01",
-    "turma": "Solid Intermediário"
-  },
-  {
-    "data": "2026-10-28",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
     "turma": "Aux. Informática Turma 02"
   },
   {
-    "data": "2026-10-28",
+    "data": "2026-11-25",
     "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "ORATÓRIA"
+    "sala": "SALA 02",
+    "turma": "SAEP DESENV. SISTEMAS"
   },
   {
-    "data": "2026-10-28",
+    "data": "2026-11-25",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA 03",
+    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
+  },
+  {
+    "data": "2026-11-25",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA MÓVEL 01",
-    "turma": "Aux. Administrativo"
+    "turma": "INTELIGÊNCIA EMOCIONAL"
   },
   {
-    "data": "2026-10-28",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA MÓVEL 02",
-    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
-  },
-  {
-    "data": "2026-10-28",
+    "data": "2026-11-25",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
   },
   {
-    "data": "2026-10-28",
+    "data": "2026-11-25",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Eletromecanica"
+  },
+  {
+    "data": "2026-11-25",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "LAB. AUTOMAÇÃO",
     "turma": "TÉC. AUTOMAÇÃO | 3º MÓD."
   },
   {
-    "data": "2026-10-28",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "LAB. ELÉTRICA",
-    "turma": "Eletromecanica 2º"
-  },
-  {
-    "data": "2026-10-29",
+    "data": "2026-11-26",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "Solid Intermediário"
-  },
-  {
-    "data": "2026-10-29",
-    "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
+    "sala": "SALA 03",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
   {
-    "data": "2026-10-29",
+    "data": "2026-11-26",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 02"
   },
   {
-    "data": "2026-10-29",
+    "data": "2026-11-26",
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. MECÂNICA",
-    "turma": "Eletromecanica 2º"
+    "turma": "Eletromecanica"
   },
   {
-    "data": "2026-10-30",
+    "data": "2026-11-27",
     "diaSemana": "SEXTA-FEIRA",
     "sala": "SALA 02",
     "turma": "Assistente Administrativo - EJA"
   },
   {
-    "data": "2026-10-31",
-    "diaSemana": "SÁBADO",
-    "sala": "SALA 01",
-    "turma": "TÉC. ELETROTÉCNICA - SEMI"
+    "data": "2026-11-30",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA MÓVEL 02",
+    "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-11-30",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. INFORMÁTICA",
+    "turma": "Aux. Informática Turma 01"
+  },
+  {
+    "data": "2026-11-30",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. MECÂNICA",
+    "turma": "Mec. Ind./ Usinagem"
+  },
+  {
+    "data": "2026-11-30",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "TÉC. AUTOMAÇÃO | 2º MÓD."
+  },
+  {
+    "data": "2026-11-30",
+    "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   }
 ]
