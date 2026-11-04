@@ -132,6 +132,12 @@
     "turma": "Assistente Administrativo - EJA"
   },
   {
+    "data": "2026-11-07",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Curso de Instalador de Ar Condicionado"
+  },
+  {
     "data": "2026-11-08",
     "diaSemana": "DOMINGO",
     "sala": "LAB. INFORMÁTICA",
@@ -288,6 +294,12 @@
     "turma": "TÉC. ELETROTÉCNICA"
   },
   {
+    "data": "2026-11-14",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Curso de Instalador de Ar Condicionado"
+  },
+  {
     "data": "2026-11-16",
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "SALA 01",
@@ -436,6 +448,12 @@
     "diaSemana": "SÁBADO",
     "sala": "SALA 01",
     "turma": "TÉC. ELETROTÉCNICA"
+  },
+  {
+    "data": "2026-11-21",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Curso de Instalador de Ar Condicionado"
   },
   {
     "data": "2026-11-23",
