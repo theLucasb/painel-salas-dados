@@ -128,6 +128,12 @@
   {
     "data": "2026-11-06",
     "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "EJA Sesi"
+  },
+  {
+    "data": "2026-11-06",
+    "diaSemana": "SEXTA-FEIRA",
     "sala": "SALA 02",
     "turma": "Assistente Administrativo - EJA"
   },
@@ -266,6 +272,18 @@
   {
     "data": "2026-11-12",
     "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "Solid works"
+  },
+  {
+    "data": "2026-11-12",
+    "diaSemana": "QUINTA-FEIRA",
+    "sala": "SALA 02",
+    "turma": "EJA - Sesi"
+  },
+  {
+    "data": "2026-11-12",
+    "diaSemana": "QUINTA-FEIRA",
     "sala": "SALA 03",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
@@ -280,6 +298,12 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "Eletromecanica"
+  },
+  {
+    "data": "2026-11-13",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "EJA Sesi"
   },
   {
     "data": "2026-11-13",
@@ -340,6 +364,12 @@
     "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. VESTUÁRIO",
     "turma": "Tec.Vestuário- 1º Mod Presencial"
+  },
+  {
+    "data": "2026-11-17",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "EJA Sesi"
   },
   {
     "data": "2026-11-17",
