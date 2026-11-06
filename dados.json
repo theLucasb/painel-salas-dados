@@ -140,8 +140,32 @@
   {
     "data": "2026-11-07",
     "diaSemana": "SÁBADO",
-    "sala": "LAB. ELÉTRICA",
+    "sala": "SALA 01",
+    "turma": "SAEP - Eletromecânica"
+  },
+  {
+    "data": "2026-11-07",
+    "diaSemana": "SÁBADO",
+    "sala": "SALA MÓVEL 02",
     "turma": "Curso de Instalador de Ar Condicionado"
+  },
+  {
+    "data": "2026-11-07",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. MECÂNICA",
+    "turma": "SAEP - Eletromecânica"
+  },
+  {
+    "data": "2026-11-07",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Eletromecânica 4º MOD"
+  },
+  {
+    "data": "2026-11-07",
+    "diaSemana": "SÁBADO",
+    "sala": "LAB. ELÉTRICA",
+    "turma": "Eletrotécnica - 4º MOD"
   },
   {
     "data": "2026-11-08",
@@ -200,12 +224,6 @@
   {
     "data": "2026-11-10",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "ORATÓRIA"
-  },
-  {
-    "data": "2026-11-10",
-    "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
@@ -243,13 +261,19 @@
     "data": "2026-11-11",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 02",
-    "turma": "Aux Administrattivo"
+    "turma": "ORATÓRIA"
   },
   {
     "data": "2026-11-11",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 03",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
+  },
+  {
+    "data": "2026-11-11",
+    "diaSemana": "QUARTA-FEIRA",
+    "sala": "SALA MÓVEL 01",
+    "turma": "Aux Administrativo"
   },
   {
     "data": "2026-11-11",
