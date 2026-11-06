@@ -278,14 +278,14 @@
   {
     "data": "2026-11-12",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "EJA - Sesi"
+    "sala": "SALA 03",
+    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
   {
     "data": "2026-11-12",
     "diaSemana": "QUINTA-FEIRA",
-    "sala": "SALA 03",
-    "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
+    "sala": "SALA MÓVEL 01",
+    "turma": "EJA - Sesi"
   },
   {
     "data": "2026-11-12",
@@ -368,8 +368,8 @@
   {
     "data": "2026-11-17",
     "diaSemana": "TERÇA-FEIRA",
-    "sala": "SALA 01",
-    "turma": "EJA Sesi"
+    "sala": "SALA MÓVEL 01",
+    "turma": "EJA - Sesi"
   },
   {
     "data": "2026-11-17",
@@ -466,6 +466,12 @@
     "diaSemana": "QUINTA-FEIRA",
     "sala": "LAB. MECÂNICA",
     "turma": "Eletromecanica"
+  },
+  {
+    "data": "2026-11-20",
+    "diaSemana": "SEXTA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "EJA Sesi"
   },
   {
     "data": "2026-11-20",
