@@ -194,6 +194,12 @@
   {
     "data": "2026-11-09",
     "diaSemana": "SEGUNDA-FEIRA",
+    "sala": "SALA MÓVEL 01",
+    "turma": "mecânico industrial"
+  },
+  {
+    "data": "2026-11-09",
+    "diaSemana": "SEGUNDA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "Aux. Informática Turma 01"
   },
@@ -220,6 +226,12 @@
     "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA 01",
     "turma": "AVALIAÇÃO SAEP qualidade"
+  },
+  {
+    "data": "2026-11-10",
+    "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA MÓVEL 01",
+    "turma": "mecânico industrial"
   },
   {
     "data": "2026-11-10",
@@ -344,6 +356,12 @@
   {
     "data": "2026-11-14",
     "diaSemana": "SÁBADO",
+    "sala": "LAB. AUTOMAÇÃO",
+    "turma": "Eletromecânica 4º MOD"
+  },
+  {
+    "data": "2026-11-14",
+    "diaSemana": "SÁBADO",
     "sala": "LAB. ELÉTRICA",
     "turma": "Curso de Instalador de Ar Condicionado"
   },
@@ -392,6 +410,12 @@
   {
     "data": "2026-11-17",
     "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "SAEP DESENV. SISTEMAS"
+  },
+  {
+    "data": "2026-11-17",
+    "diaSemana": "TERÇA-FEIRA",
     "sala": "SALA MÓVEL 01",
     "turma": "EJA - Sesi"
   },
@@ -429,7 +453,7 @@
     "data": "2026-11-18",
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 01",
-    "turma": "SAEP DESENV. SISTEMAS"
+    "turma": "Aux. Informática Turma 02"
   },
   {
     "data": "2026-11-18",
@@ -448,12 +472,6 @@
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA MÓVEL 01",
     "turma": "INTELIGÊNCIA EMOCIONAL"
-  },
-  {
-    "data": "2026-11-18",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA MÓVEL 02",
-    "turma": "Aux. Informática Turma 02"
   },
   {
     "data": "2026-11-18",
@@ -560,6 +578,12 @@
   {
     "data": "2026-11-24",
     "diaSemana": "TERÇA-FEIRA",
+    "sala": "SALA 01",
+    "turma": "SAEP DESENV. SISTEMAS"
+  },
+  {
+    "data": "2026-11-24",
+    "diaSemana": "TERÇA-FEIRA",
     "sala": "LAB. INFORMÁTICA",
     "turma": "TÉC. ELETROTÉCNICA | 2º MÓD. PRESENCIAL"
   },
@@ -592,12 +616,6 @@
     "diaSemana": "QUARTA-FEIRA",
     "sala": "SALA 01",
     "turma": "Aux. Informática Turma 02"
-  },
-  {
-    "data": "2026-11-25",
-    "diaSemana": "QUARTA-FEIRA",
-    "sala": "SALA 02",
-    "turma": "SAEP DESENV. SISTEMAS"
   },
   {
     "data": "2026-11-25",
